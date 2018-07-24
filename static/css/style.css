@@ -1,0 +1,22 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+.main-section{
+	max-width:600px;
+	margin:0 auto;
+}
+
+#site-list li{
+	list-style:none;
+	float: left;
+	padding:10px 10px;
+}
+
+#site-footer div{
+	padding:10px;
+	background: #ccc;
+	font-size:12px;
+}
