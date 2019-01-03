@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head id="head">
+	<meta charset="UTF-8">
+	<title>Vipul Sharma</title>
+	<link rel="stylesheet" href="static/css/main.css"/>
+</head>
+<body class="site-body">
+	<section id="site-body">
+		<header id="vip-header"></header><hr/>
+		<section id="vip-container">
+            <nav class="portfolio-nav">
+                <ul class="nav-list p-nav-list">
+                    <li class="nav-item"><button id="p-investment" class="p-nav-btn">Investments</button></li>
+                    <li class="nav-item"><button id="p-investment" class="p-nav-btn">Trading</button></li>
+                    <div style="clear:both"></div>
+                </ul>
+            </nav>
+            <div class="portfolio">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Ticker</th>
+                            <th>Weight</th>
+                            <th>P/L %</th>
+                            <th>Impact</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>RELCAPITAL</td>
+                            <td>47.7%</td>
+                            <td>-1.05%</td>
+                            <td>-0.50%</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+		<footer id="vip-footer"></footer>
+	</section>
+	<script src="./component/layout/Navbar.js"></script>
+    <script src="./component/layout/Footer.js"></script>
+    <script src="./component/portfolio/Investment.js"></script>
+    <script type="module" src="app.js">
+        
+    </script>
+</body>
+</html>
