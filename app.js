@@ -1,4 +1,4 @@
-// Rename it 'Navbar' and you'll get a f*****g lexical declaration error
+// Rename it 'Navbar' and you'll get a lexical declaration error.
 // const navbar = new Navbar();
 
 class App{
@@ -23,5 +23,10 @@ class App{
     initBody(){
         document.getElementById('vip-header').innerHTML = this.navbar.content;
         document.getElementById('vip-footer').innerHTML = this.footer.content;
+        // this.renderUI();
     }
+
+    // renderUI(){
+    //     document.querySelector('full-page').setAttribute('width', window.innerWidth);
+    // }
 }
