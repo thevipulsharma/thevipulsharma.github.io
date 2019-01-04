@@ -3,6 +3,7 @@
 
 class App{
     constructor(params = {}){
+        this.self = this;
         this.siteHead = document.getElementById('site-head');
         this.title = (params.title) ? params.title : 'Vipul Sharma';
         this.css = (params.css) ? params.css : `<link rel="stylesheet" href="static/css/main.css"/>`;
@@ -15,9 +16,15 @@ class App{
         this.footer = new Footer();
     }
 
-    initHead(){
+    init(){
+        this.initHead(this.initBody);
+        this.initBody();
+    }
+
+    initHead(callback = () => {}){
         const siteHeadContent = this.title + this.css + this.metaTag;
         this.siteHead.innerHTML = siteHeadContent;
+        // callback(this.self);
     }
 
     initBody(){

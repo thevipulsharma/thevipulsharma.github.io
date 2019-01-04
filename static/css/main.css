@@ -10,3 +10,20 @@
     list-style: none; float:left; padding:0px 5px;
 }
 #nav-home{padding-left: 0px;}
+
+.main-div{padding:5px 0px;}
+
+.p-table{
+    width:100%; border-collapse: collapse;
+}
+.p-head{
+    background: #fa3d3d;
+}
+
+.p-body .p-row:nth-child(even){
+    background: #ccd;
+}
+
+.p-col{
+    border: 1px solid #aaa; padding: 5px; 
+}
