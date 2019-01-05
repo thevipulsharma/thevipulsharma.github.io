@@ -17,20 +17,22 @@ class App{
     }
 
     init(){
-        this.initHead(this.initBody);
+        this.initHead();
         this.initBody();
     }
 
-    initHead(callback = () => {}){
+    // renderUI(self, self.initHead)
+
+    initHead(){
         const siteHeadContent = this.title + this.css + this.metaTag;
         this.siteHead.innerHTML = siteHeadContent;
-        // callback(this.self);
+        console.log('Head');
     }
 
     initBody(){
         document.getElementById('vip-header').innerHTML = this.navbar.content;
         document.getElementById('vip-footer').innerHTML = this.footer.content;
-        // this.renderUI();
+        console.log('Body!');
     }
 
     // renderUI(){
