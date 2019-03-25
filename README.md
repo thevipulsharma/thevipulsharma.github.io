@@ -25,7 +25,8 @@
                     <a class="nav-link" href="#code">Code</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="MOVIES.md">Movies</a>
+                    <a class="nav-link" href="MOVIES.md">[Movies](MOVIES.md)</a>
+		    [Movies](MOVIES.md)
                 </li>
             </ul>
         </div>
