@@ -1,6 +1,6 @@
-<div>
-<style scoped>
-a{background:red; }
-</style>
-<a href="#">ok</a>
+<div id="mydiv">
+  <style>
+    #mydiv p{background: red;}
+  </style>
+  <p>Para</p>
 </div>
