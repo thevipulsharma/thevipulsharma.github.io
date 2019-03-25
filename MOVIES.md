@@ -2,5 +2,5 @@
 
 ### Watched Movies
 <ol>
-  <li>[The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)</li>
+  <li><a href="https://www.imdb.com/title/tt0111161/>The Shawshank Redemption</a></li>
 </ol>
