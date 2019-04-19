@@ -1,3 +1,12 @@
+.big-box-jb{
+    margin: 0px;
+}
+
+.big-box-jb button{
+    border: none;
+}
+
+/*
 ul.timeline {
     list-style-type: none;
     position: relative;
@@ -28,3 +37,4 @@ ul.timeline > li:before {
     height: 20px;
     z-index: 400;
 }
+*/
