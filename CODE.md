@@ -1,3 +1,0 @@
-# Code
-
-### My Coding Timeline
