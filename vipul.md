@@ -1,6 +1,6 @@
 # Me & Myself
 
-Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though I am mostly solomio rocking alone kind of guy, I think I should get more social, interact with more people and share my views, ideas and opinions on stuffs around.
+Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though I am mostly solomio rocking alone kind of guy, I think I should get more social, interact with more people and share my views, ideas and opinions on stuffs around. So, here 
 
 
 ## My Blogs
@@ -11,7 +11,10 @@ Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though
 
 
 ## My Favourites
-I like many things, I believe in the idea of _Carpe Diem_. Here a list of some my favourites. It was kind of hard to select one out of so much awesomeness out there. But, still...
+I like many things and I believe in the idea of _Carpe Diem_. Here's a list of some my favourites though it was kind of hard to select just one out of so many. So, if not in this list, its definitely in my heart. 
 
 ### Song
 [Chand Taare - I am kalam](https://youtu.be/iWNyT02qVSU)
+
+### Crush
+![Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
