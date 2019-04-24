@@ -13,23 +13,18 @@ Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though
 ## My Favourites
 I like many things and I believe in the idea of _Carpe Diem_. Here's a list of some my favourites though it was kind of hard to select just one out of so many. So, if not in this list, its definitely in my heart. 
 
-### Song
-[Chand Taare - I am kalam](https://youtu.be/iWNyT02qVSU)
+* [**Song:** Chand Taare - I am kalam](https://youtu.be/iWNyT02qVSU)
 
+* [**Movie:** Good Will Hunting (1997)](https://www.imdb.com/title/tt0119217/)
 
-### Movie
-[Good Will Hunting (1997)](https://www.imdb.com/title/tt0119217/)
-
-
-### Crush &hearts;
-[Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
+[**Crush &hearts;** Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
 
 
 ## Find me on -
-* [Facebook - /thekrazyguy](https://www.facebook.com/thekrazyguy)
+* [**Facebook:** /thekrazyguy](https://www.facebook.com/thekrazyguy)
 
-* [Instagram - /qwertyvipul](https://www.instagram.com/qwertyvipul/)
+* [**Instagram:** /qwertyvipul](https://www.instagram.com/qwertyvipul/)
 
-* [Twitter - /qwertyvipul](https://twitter.com/qwertyvipul/)
+* [**Twitter:** /qwertyvipul](https://twitter.com/qwertyvipul/)
 
-* [Github - /thevipulsharma](https://github.com/thevipulsharma)
+* [**Github:** /thevipulsharma](https://github.com/thevipulsharma)
