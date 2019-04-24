@@ -1,6 +1,6 @@
 # Me & Myself
 
-Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though I am mostly solomio rocking alone kind of guy, I think I should get more social, interact with more people and share my views, ideas and opinions on stuffs around. So, here 
+Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though I am mostly solomio rocking alone kind of guy, I think I should get more social, interact with more people and share my views, ideas and opinions on stuffs around. So, here this is me & myself...
 
 
 ## My Blogs
@@ -16,5 +16,8 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 ### Song
 [Chand Taare - I am kalam](https://youtu.be/iWNyT02qVSU)
 
+### Movie
+[Good Will Hunting (1997)](https://www.imdb.com/title/tt0119217/)
+
 ### Crush
-![Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
+[Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
