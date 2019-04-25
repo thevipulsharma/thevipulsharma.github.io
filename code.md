@@ -4,21 +4,28 @@
 
 ### My Favourites
 
-* [BondAI - An AI based bond credit rating system](https://thevipulsharma.github.io/bondai)
+* [**vslib:** A generic C++ data structures library](https://github.com/thevipulsharma/vslib)
 
-* [Skynet - GA based machine learning model generator](https://thevipulsharma.github.io/skynet)
+* [**BondAI:** An AI based bond credit rating system](https://thevipulsharma.github.io/bondai)
 
-* [Nemesis - A fake news detection AI](https://thevipulsharma.github.io/nemesis)
+* [**Skynet:** GA based machine learning model generator](https://thevipulsharma.github.io/skynet)
 
-* [vslib - A generic C++ data structures library](https://github.com/thevipulsharma/vslib)
+* [**Nemesis:** A fake news detection AI](https://thevipulsharma.github.io/nemesis)
 
 
 ### C++
 
-* [sudoku_genius - A simple sudoku solving algorithm](https://github.com/thevipulsharma/sudoku_genius)
+* [**Sudoku Genius:** A simple sudoku solving algorithm](https://github.com/thevipulsharma/sudoku_genius)
 
-* [chain_reaction - CLI version of the famous chain reaction game on google playstore](https://github.com/thevipulsharma/chain_reaction)
+* [**Chain Reaction:** CLI version of the famous chain reaction game on google playstore](https://github.com/thevipulsharma/chain_reaction)
 
-* [elevator - A real life elevator simulation project](https://github.com/thevipulsharma/elevator)
+* [**Elevator:** A real life elevator simulation project](https://github.com/thevipulsharma/elevator)
 
-* [vslib - A generic C++ data structures library](https://github.com/thevipulsharma/vslib)
+* [**vslib:** A generic C++ data structures library](https://github.com/thevipulsharma/vslib)
+
+
+### PHP
+
+* [**Oplous:** An attendance process digitizaiton website](https://github.com/thevipulsharma/oplous)
+
+* [**Smart Rail:** A smart rail website developed in Smart India Hackathon - 2018](https://github.com/thevipulsharma/smart_rail)
