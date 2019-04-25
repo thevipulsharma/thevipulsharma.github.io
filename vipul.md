@@ -19,6 +19,8 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 
 * [**Crush &hearts;:** Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
 
+* [**Singer:** Taylor Swift](https://youtu.be/e-ORhEE9VVg)
+
 
 ## Find me on -
 * [**Facebook:** /thekrazyguy](https://www.facebook.com/thekrazyguy)
