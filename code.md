@@ -8,8 +8,6 @@
 
 * [**Truepage:** A digital paper and paperwork alternative.](https://github.com/truepage)
 
-* [**BondAI:** An AI based bond credit rating system](https://thevipulsharma.github.io/bondai)
-
 * [**Skynet:** GA based machine learning model generator](https://thevipulsharma.github.io/skynet)
 
 * [**Nemesis:** A fake news detection AI](https://thevipulsharma.github.io/nemesis)
@@ -36,3 +34,8 @@
 ### JavaScript
 
 * [**Truepage:** A digital paper and paperwork alternative.](https://github.com/truepage)
+
+
+### Python
+
+* [**BondAI:** An AI based bond credit rating system](https://thevipulsharma.github.io/bondai)
