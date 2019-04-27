@@ -1,10 +1,8 @@
 # Me & Myself
-
 Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though I am mostly solomio rocking alone kind of guy, I think I should get more social, interact with more people and share my views, ideas and opinions on stuffs around. So, here this is me & myself...
 
 
 ## My Blogs
-
 * [Github Blog](https://thevipulsharma.github.io/blogs)
 
 * [Wordpress Blog](https://thevipulsharma.wordpress.com)
@@ -22,6 +20,12 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 * [**Singer:** Taylor Swift](https://youtu.be/e-ORhEE9VVg)
 
 * [**Car:** 2020 Ford Mustang Shelby GT500](https://www.wsupercars.com/wallpapers/Ford/2020-Ford-Mustang-Shelby-GT500-V1-1080.jpg)
+
+
+## Hobbies
+1. Coins collection
+1. Bills collection (only mine)
+1. Watching movies
 
 
 ## Find me on -
