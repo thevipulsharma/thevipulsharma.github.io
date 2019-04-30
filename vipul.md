@@ -23,9 +23,8 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 
 
 ## Hobbies
-1. Coins collection
-1. Bills collection (only mine)
-1. Watching movies
+1. Numismatics
+1. Movies
 
 
 ## Find me on -
