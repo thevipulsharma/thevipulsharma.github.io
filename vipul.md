@@ -19,7 +19,9 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 
 * [**Singer:** Taylor Swift](https://youtu.be/e-ORhEE9VVg)
 
-* [**Car:** 2020 Ford Mustang Shelby GT500](https://www.wsupercars.com/wallpapers/Ford/2020-Ford-Mustang-Shelby-GT500-V1-1080.jpg)
+* [**Car:** 2020 Ford Mustang Shelby GT500](http://wallpapersdsc.net/wp-content/uploads/2015/11/177.jpg)
+
+* [**TV Show:** Friends](https://www.imdb.com/title/tt0108778/)
 
 
 ## Hobbies
