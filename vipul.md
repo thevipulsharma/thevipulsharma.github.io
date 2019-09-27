@@ -21,7 +21,7 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 
 * [**Car:** 2020 Ford Mustang Shelby GT500](http://wallpapersdsc.net/wp-content/uploads/2015/11/177.jpg)
 
-* [**TV Show:** Friends](https://www.imdb.com/title/tt0108778/)
+* [**TV Show:** Friends](https://youtu.be/Yp0kth7-zsM)
 
 
 ## Hobbies
