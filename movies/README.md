@@ -1,7 +1,9 @@
 # Movies
+I am a great fan of movies. I believe watching movies :tv: is a great way to relax, refresh and expand ones imaginery landscape.
 
-### Watched Movies
-<ol>
-  <li><a href="#" target="_blank">The Curious Case of Benjamin Button</a></li>
-  <li><a href="https://www.imdb.com/title/tt0111161/" target="_blank">The Shawshank Redemption</a></li>
-</ol>
+## Me Movie Trivia
+I averaged 4 movies a week for almost 2 years.
+
+## Me Lists
+1. [Watched Movies](./WATCHED.md)
+1. [Different but Similar](./DIFFBUTSIM.md)
