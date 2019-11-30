@@ -1,15 +1,8 @@
 # Me & Myself
-Hey there, how you doing? This is Vipul Sharma and welcome to my website. Though I am mostly solomio rocking alone kind of guy, I think I should get more social, interact with more people and share my views, ideas and opinions on stuffs around. So, here this is me & myself...
-
-
-## My Blogs
-* [Github Blog](https://thevipulsharma.github.io/blogs)
-
-* [Wordpress Blog](https://thevipulsharma.wordpress.com)
+Hey there, how you doing?
 
 
 ## My Favourites
-I like many things and I believe in the idea of _Carpe Diem_. Here's a list of some my favourites though it was kind of hard to select just one out of so many. So, if not in this list, its definitely in my heart. 
 
 * [**Song:** Chand Taare - I am kalam](https://youtu.be/iWNyT02qVSU)
 
@@ -35,5 +28,7 @@ I like many things and I believe in the idea of _Carpe Diem_. Here's a list of s
 * [**Instagram:** /qwertyvipul](https://www.instagram.com/qwertyvipul/)
 
 * [**Twitter:** /qwertyvipul](https://twitter.com/qwertyvipul/)
+
+* [**Blogger:** https://thevipulsharma.blogspot.com](https://thevipulsharma.blogspot.com)
 
 * [**Github:** /thevipulsharma](https://github.com/thevipulsharma)
