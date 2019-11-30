@@ -7,4 +7,5 @@
 1. [**Sindri:** 2005-2010](https://en.wikipedia.org/wiki/Sindri)
 1. [**Gaya:** 2010-2013](https://en.wikipedia.org/wiki/Gaya,_India)
 1. [**Patna:** 2013-2016](https://en.wikipedia.org/wiki/Patna)
-1. [**Patiala:** 2016-...](https://en.wikipedia.org/wiki/Patiala)
+1. [**Patiala:** 2016-2020](https://en.wikipedia.org/wiki/Patiala)
+1. [**Hyderabad:** 2020-....](https://en.wikipedia.org/wiki/Hyderabad)
