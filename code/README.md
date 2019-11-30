@@ -1,8 +1,8 @@
 # Code
 
-## Some of my projects
+# Some of my projects
 
-### My Favourites
+## My Favourites
 
 * [**vslib:** A generic C++ data structures library](https://github.com/thevipulsharma/vslib)
 
@@ -13,7 +13,7 @@
 * [**Nemesis:** A fake news detection AI](https://thevipulsharma.github.io/nemesis)
 
 
-### C++
+## C++
 
 * [**Sudoku Genius:** A simple sudoku solving algorithm](https://github.com/thevipulsharma/sudoku_genius)
 
@@ -24,18 +24,20 @@
 * [**vslib:** A generic C++ data structures library](https://github.com/thevipulsharma/vslib)
 
 
-### PHP
+## PHP
 
 * [**Oplous:** An attendance process digitizaiton website](https://github.com/thevipulsharma/oplous)
 
 * [**Smart Rail:** A smart rail website developed in Smart India Hackathon - 2018](https://github.com/thevipulsharma/smart_rail)
 
 
-### JavaScript
+## JavaScript
 
 * [**Truepage:** A digital paper and paperwork alternative.](https://github.com/truepage)
 
 
-### Python
+## Python
 
 * [**BondAI:** An AI based bond credit rating system](https://thevipulsharma.github.io/bondai)
+
+
