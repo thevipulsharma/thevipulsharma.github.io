@@ -1,3 +1,7 @@
+---
+permalink: /food/
+---
+
 # Food
 
 ## Ways to my heart -
