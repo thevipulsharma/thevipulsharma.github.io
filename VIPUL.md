@@ -29,12 +29,12 @@ Hey there, how you doing?
 
 
 ## Find me on -
-* [**Facebook:** @thekrazyguy](https://www.facebook.com/thekrazyguy)
+* [**Facebook:** /thekrazyguy](https://www.facebook.com/thekrazyguy)
 
-* [**Instagram:** @qwertyvipul](https://www.instagram.com/qwertyvipul/)
+* [**Instagram:** /qwertyvipul](https://www.instagram.com/qwertyvipul/)
 
-* [**Twitter:** @qwertyvipul](https://twitter.com/qwertyvipul/)
+* [**Twitter:** /qwertyvipul](https://twitter.com/qwertyvipul/)
 
 * [**Blogger:** https://thevipulsharma.blogspot.com](https://thevipulsharma.blogspot.com)
 
-* [**Github:** @thevipulsharma](https://github.com/thevipulsharma)
+* [**Github:** /thevipulsharma](https://github.com/thevipulsharma)
