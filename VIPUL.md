@@ -14,7 +14,7 @@ Hey there, how you doing?
 
 * [**Crush &hearts;:** Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
 
-* [**Actor:** Al Pacino](https://en.wikipedia.org/wiki/Al_Pacino)
+* [**Actor:** Al Pacino](https://www.imdb.com/name/nm0000199/)
 
 * [**Singer:** Taylor Swift](https://youtu.be/e-ORhEE9VVg)
 
