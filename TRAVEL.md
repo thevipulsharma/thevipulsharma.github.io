@@ -1,3 +1,7 @@
+---
+permalink: /travel/
+---
+
 # Travel
 
 ## Places I've lived
