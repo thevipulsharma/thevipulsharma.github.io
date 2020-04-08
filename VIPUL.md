@@ -1,3 +1,7 @@
+---
+permalink: /vipul/
+---
+
 # Me & Myself
 Hey there, how you doing?
 
