@@ -1,3 +1,7 @@
+---
+permalink: /code/
+---
+
 # Code
 
 # Some of my projects
