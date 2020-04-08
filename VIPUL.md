@@ -14,6 +14,8 @@ Hey there, how you doing?
 
 * [**Crush &hearts;:** Emma Watson](http://static.dnaindia.com/sites/default/files/2015/08/16/366097-emma-watson.jpg)
 
+* [**Actor:** Al Pacino](https://en.wikipedia.org/wiki/Al_Pacino)
+
 * [**Singer:** Taylor Swift](https://youtu.be/e-ORhEE9VVg)
 
 * [**Car:** 2020 Ford Mustang Shelby GT500](http://wallpapersdsc.net/wp-content/uploads/2015/11/177.jpg)
@@ -27,12 +29,12 @@ Hey there, how you doing?
 
 
 ## Find me on -
-* [**Facebook:** /thekrazyguy](https://www.facebook.com/thekrazyguy)
+* [**Facebook:** @thekrazyguy](https://www.facebook.com/thekrazyguy)
 
-* [**Instagram:** /qwertyvipul](https://www.instagram.com/qwertyvipul/)
+* [**Instagram:** @qwertyvipul](https://www.instagram.com/qwertyvipul/)
 
-* [**Twitter:** /qwertyvipul](https://twitter.com/qwertyvipul/)
+* [**Twitter:** @qwertyvipul](https://twitter.com/qwertyvipul/)
 
 * [**Blogger:** https://thevipulsharma.blogspot.com](https://thevipulsharma.blogspot.com)
 
-* [**Github:** /thevipulsharma](https://github.com/thevipulsharma)
+* [**Github:** @thevipulsharma](https://github.com/thevipulsharma)
