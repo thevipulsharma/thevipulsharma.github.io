@@ -35,6 +35,6 @@ Hey there, how you doing?
 
 * [**Twitter:** /qwertyvipul](https://twitter.com/qwertyvipul/)
 
-* [**Blogger:** https://thevipulsharma.blogspot.com](https://thevipulsharma.blogspot.com)
+* [**Blogger:** https://qwertyvipul.blogspot.com](https://qwertyvipul.blogspot.com)
 
 * [**Github:** /thevipulsharma](https://github.com/thevipulsharma)
